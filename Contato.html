@@ -21,7 +21,8 @@
 		</div>
 		<div class="marcar">
 			<div class="dados">
-				<h1>Marque uma reunião:</h1>
+				<br>
+				<h1 style="color: #1B201B">Marque uma reunião:</h1>
 				<form>
 					<div class="dados-forma">
 						<label>Nome:</label>
@@ -34,7 +35,8 @@
 					</div>
 					<!-- Cria uma tabela de seleção com várias opções -->
 					<div class="dados-forma3">
-						<label>Como nos conheceu?</label>
+						<label style="color: #1B201B">Como nos conheceu?</label>
+						<br>
 						<select class="formaa">
 							<option>Redes Sociais</option>
 							<option>Tv</option>
@@ -43,11 +45,22 @@
 							<option>Outros</option>
 						</select>
 					</div>
+					<button class="btton" type="submit">Enviar</button>
 				</form>
 			</div>
 
+			<div class="contateos">
+				<br>
+				<h1 style="color:#1B201B"> Contate-nos!</h1>
+				<p>
+					<i class="fone"></i>
+					Telefone: (81)99999-9999
+				</p>
+				<p>
+					Email:fulaninho@gmail.com
+				</p>
+			</div>
 		</div>
-
 	</body>
 	</html>
 
@@ -77,19 +90,21 @@
 	.navnavbar
 	{
 		padding-left: 30%;
-		width: 30%;
+		width: 60%;
+		height: 90px;
 	}
 
 	.marcar
 	{
 		width: 100%;
-		height:600px;
+		height:400px;
 	}
 
 	.dados
 	{
+		float: left;
 		width:20%;
-		height:500px;
+		height:400px;
 	}
 
 	.dados-forma
@@ -102,9 +117,14 @@
 		height: 90px;
 	}
 
+	.dados-forma3
+	{
+		height: 70px;
+	}
+
 	.button
 	{
-		/*padding-top:1%;*/
+		padding-top:1%;
 		width: 100%;
 		padding-bottom:40%;
 	}
@@ -113,5 +133,18 @@
 	{
 		padding:5%;
 
+	}
+
+	.btton
+	{
+		float: left;
+	}
+
+	.contateos
+	{
+		width: 30%;
+		height: 400px;
+		margin-left: 30%;
+		/*margin-bottom: 60%;*/
 	}
 </style>
