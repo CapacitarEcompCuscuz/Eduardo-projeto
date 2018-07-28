@@ -1,0 +1,75 @@
+<style>
+.navbar
+{
+	width: 100%;
+	height: 95px;
+	background-color: #FAFAFA;
+	margin-top: 0%;
+
+}
+
+.navbar a:hover
+{
+	color: black;
+}
+
+.navbar-logo
+{
+	width:100%;
+	height:1px;
+
+}
+
+.navbar-button
+{
+	padding-right: 60%;
+	width: 60%;
+	height: 50px;
+
+}
+
+.navnavbar
+{
+	padding-left:30%;
+	width: 30%;
+}
+.button
+{
+	padding-top: 2%;
+	width: 100%;
+	padding-bottom: 50%;
+}
+
+.textnavbar
+{
+
+	padding:5%;
+	color: gray;
+
+}
+
+.papel
+{
+	width: 90%;
+	height: 400px;
+	padding-left:5%;
+}
+.txt1
+{
+	width: 100%;
+	height: 160px;
+}
+.txt2
+{
+	width: 100%;
+	height: 160px;
+	padding-right:15%; 
+
+}
+.espaço
+{
+	width: 100%;
+	height: 55px;
+}
+
+</style>

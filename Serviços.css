@@ -1,0 +1,172 @@
+<style>
+
+.navbar
+{
+	width: 100%;
+	height: 95px;
+	background-color: white;
+	margin-top: 0%;
+
+}
+
+.navbar a:hover
+{
+	color: black;
+}
+
+.degrade
+{
+	height: 1200px;
+}
+
+.navbar-logo
+{
+	width:100%;
+	height:1px;
+
+}
+
+.navbar-button
+{
+	padding-right: 60%;
+	width: 60%;
+	height: 50px;
+
+}
+
+.navnavbar
+{
+	padding-left:30%;
+	width: 30%;
+}
+.button
+{
+	padding-top: 2%;
+	width: 100%;
+	padding-bottom: 50%;
+}
+
+.textnavbar
+{
+
+	padding:5%;
+	color: gray;
+
+}
+
+
+.espaço
+{
+	width:100%;
+	height:50px;
+	float: left;
+}
+
+.serviços
+{
+	width:100%;
+	height:1200px;
+}
+
+.info
+{
+	float: left;
+	width: 45%;
+	height: 1030px;
+}
+
+.info2
+{
+	float: left;
+	margin-left: 15%;
+	width: 30%;
+	height: 1030px;
+}
+
+.blocos
+{
+	padding-left:20%;
+	width:75%;
+	height:30px;
+}
+
+.blocos1
+{
+	width: 100%;
+	height: 800%;
+}
+
+.img
+{
+	padding-left: 20%;
+}
+
+.espaço
+{
+	height: 60px;;
+}
+
+.img2
+{
+	padding-left: 20%;
+}
+
+.img3
+{
+	padding-left: 20%;
+}
+
+.blocos4
+{
+	width: 100%;
+	height: 50px;
+	padding-right: 40%;
+}
+
+.blocos-material4
+{
+	border: 2px solid black;
+	background-color: white;
+	width: 99%;
+}
+
+.blocos-material2
+{
+	border: 2px solid black;
+	background-color: white;
+}
+
+.txt-p
+{
+	width:100%;
+	height: 76px;
+}
+
+.img4
+{
+	padding-left: 17%;
+}
+
+.espaço1
+{
+	height:40px;
+}
+
+.txt-h
+{
+	padding-top: 13%;
+}
+
+.txt-p1
+{
+	width: 100%;
+}
+
+.email
+{
+	position: fixed;
+	background-color: #08088A;
+}
+
+
+</style>
